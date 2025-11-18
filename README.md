@@ -1,6 +1,5 @@
-[
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Linngeshwar+%F0%9F%91%8B;Student+%26+Aspiring+Developer;MERN+Stack+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Linngeshwar+%F0%9F%91%8B;Student+%26+Aspiring+Developer;MERN+Stack+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -67,7 +66,7 @@ const linngeshwar = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linngeshwar&theme=tokyonight&hide_border=true" alt="Linngeshwar's GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Linngeshwar&theme=tokyonight&hide_border=true" alt="Linngeshwar's GitHub streak" />
 </div>
 
 <div align="center">
@@ -96,6 +95,5 @@ const linngeshwar = {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+connect!;Always+ready+to+collaborate+on+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+connect!;Always+ready+to+collaborate+on+projects!" alt="Typing SVG" />
 </div>
-](https://github.com/Linngeshwar/Recipe-App)
